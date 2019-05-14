@@ -1,0 +1,13 @@
+Team member: Yichang Chen(yc2945), Yueqiu Sun(ys3202)
+
+Team topic: 
+
+Quad-Life (four-color Life)
+Quad-Life is a variant of the game of life that uses four different symmetrical colors. The two rules that determines the color of births are:
+
+If two parents have the same color (i.e. they form a majority), the child has the same color. (This is the same as Life and Immigration).
+If there is no majority (i.e. all 3 parents have different colors), the child is of the fourth color.
+Quad-Life is a superset of both normal Life and Immigration. Its most interesting feature is that populations where one color has totally died out can give birth to that same color again. Only if two colors die out (reducing this to Immigration) is such color death necessarily permanent.
+
+Also, in many cases, oscillator and spaceships that include 3 or 4 colors may have higher periods than their normal Life counterparts, cycling through several different color combinations. For example, the 4-color Glider has one side of one color, while the two bits on the other side are of different colors, and cycle through the three different permutations of the two other colors, giving the resulting multi-color Glider a period of 12, rather than the usual 4. Whenever such multi-colored objects have one or more periods that differ from those of the original objects, those periods are shown in parentheses at the end (if known).
+

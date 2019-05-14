@@ -1,0 +1,12 @@
+
+
+Vec-Vec
+
+CPU Bandwidth = 2.557733 GB/s
+GPU Bandwidth = 124.205350 GB/s
+Error = 0.000000
+
+Mat-Vec
+CPU Bandwidth = 2.660399 GB/s
+GPU Bandwidth = 124.015820 GB/s
+Error = 0.000000

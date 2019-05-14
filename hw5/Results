@@ -1,0 +1,11 @@
+num_procs = 4, Nrepeat = 2
+result is : 12
+
+
+num_procs = 4, Nrepeat = 20000
+ring latency: 1.140698e-02 ms
+
+
+num_procs = 2, Nrepeat = 20000
+Nsize is : 1000000
+ring bandwidth: 2.858138e-01 GB/s
